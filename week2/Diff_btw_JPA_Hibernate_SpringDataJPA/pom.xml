@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.example</groupId>
+        <artifactId>week2</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>week2</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>LibraryManagement</module>
-        <module>Library_ex4</module>
-        <module>Spring_Hibernate</module>
-        <module>SpringData_JPA</module>
-        <module>Diff_btw_JPA_Hibernate_SpringDataJPA</module>
-    </modules>
+    <artifactId>Diff_btw_JPA_Hibernate_SpringDataJPA</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

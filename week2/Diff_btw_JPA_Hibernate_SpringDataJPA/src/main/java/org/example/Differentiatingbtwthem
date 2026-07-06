@@ -1,0 +1,14 @@
+|   Feature               |   JPA                                     | **Hibernate                                | **Spring Data JPA**                                    |
+| ----------------------- | ----------------------------------------- | ----------------------------------------------- | ------------------------------------------------------ |
+| **Definition**          | Java Persistence API (Specification)      | ORM Framework (Implementation of JPA)           | Spring module built on top of JPA                      |
+| **Type**                | Specification                             | Framework                                       | Framework/Library                                      |
+| **Purpose**             | Defines standards for ORM                 | Maps Java objects to database tables            | Simplifies database operations using JPA               |
+| **Developed By**        | Oracle (Java EE/Jakarta EE)               | Hibernate Team (Red Hat)                        | Spring Team                                            |
+| **SQL Queries**         | Uses JPQL                                 | Uses HQL/SQL                                    | Uses JPA methods, JPQL, or native SQL                  |
+| **CRUD Operations**     | Performed using `EntityManager`           | Performed using `Session`                       | Performed using `JpaRepository`                        |
+| **Boilerplate Code**    | More                                      | Moderate                                        | Very Less                                              |
+| **Database Support**    | Database Independent                      | Database Independent                            | Database Independent                                   |
+| **Repository Support**  | No                                        |  No                                             | Yes (`JpaRepository`)                                  |
+| **Additional Features** | Standard API only                         | Caching, Lazy Loading, Dirty Checking, etc.     | Pagination, Sorting, Query Methods, Repository Support |
+| **Example Method**      | `entityManager.persist()`                 | `session.persist()`                             | `repository.save()`                                    |
+| **Dependency**          | Needs an implementation (e.g., Hibernate) | Can work independently or as JPA implementation | Requires JPA implementation (usually Hibernate)        |
