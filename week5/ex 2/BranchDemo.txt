@@ -1,0 +1,5 @@
+CTS Digital Nurture 5.0
+Week 5 - Git Branching Exercise
+
+This file was created in GitNewBranch.
+Purpose: To demonstrate branching and merging in Git.

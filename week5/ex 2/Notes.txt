@@ -1,0 +1,8 @@
+Git Commands Used
+
+1. git branch GitNewBranch
+2. git checkout GitNewBranch
+3. git add .
+4. git commit -m "Added files"
+5. git checkout main
+6. git merge GitNewBranch
