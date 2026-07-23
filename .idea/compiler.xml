@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HTTP_request_response" />
+        <module name="Spring_Hibernate" />
+        <module name="LibraryManagement" />
+        <module name="Diff_btw_JPA_Hibernate_SpringDataJPA" />
+        <module name="Library_ex4" />
+        <module name="Creation_Springboot" />
+        <module name="SpringData_JPA" />
+        <module name="account" />
+        <module name="Loading_Bean" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Library_Dependency" target="17" />
+      <module name="LibraryDependency" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

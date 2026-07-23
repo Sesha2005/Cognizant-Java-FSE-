@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/week2/Diff_btw_JPA_Hibernate_SpringDataJPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Diff_btw_JPA_Hibernate_SpringDataJPA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/LibraryDependency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/LibraryDependency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/LibraryManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/LibraryManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Library_Dependency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Library_Dependency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Library_ex4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Library_ex4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/SpringData_JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/SpringData_JPA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Spring_Hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/Spring_Hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/Creation_Springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/Creation_Springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/HTTP_request_response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/HTTP_request_response/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/Loading_Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/Loading_Bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week3/untitled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week4/account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/week4/account/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
